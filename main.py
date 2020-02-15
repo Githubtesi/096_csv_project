@@ -1,5 +1,8 @@
+import csv_writer
+
+
 def main():
-    pass
+    csv_writer.csvwirte()
 
 
 if __name__ == '__main__':
